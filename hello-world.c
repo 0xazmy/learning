@@ -1,8 +1,7 @@
 #include <stdio.h>
 int main () {
 	
-   printf("helo-c");
+   printf("hello-c");
 	
    return 0;
 }
-
