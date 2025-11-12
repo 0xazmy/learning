@@ -1,8 +1,7 @@
 #include <stdio.h>
 int main () {
 	
-   printf("hello");
+   printf("login-github");
 	
    return 0;
 }
-
