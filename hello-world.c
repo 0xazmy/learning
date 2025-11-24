@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main () {
 	
-   printf("login");
+   printf("hoam");
 	
    return 0;
 }
